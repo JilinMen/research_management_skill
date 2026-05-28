@@ -1,3 +1,8 @@
+---
+name: research-management-skill
+description: Manage research-oriented work with a required plan.md workflow, traceable project state, process-file registry, decision log, TODOs, experiment registry, and confirmation gates before substantive research writing, coding, analysis, evaluation, revision, or manuscript work.
+---
+
 # Research Management Skill
 
 ## Purpose

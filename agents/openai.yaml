@@ -1,0 +1,7 @@
+interface:
+  display_name: "Research Management Skill"
+  short_description: "Structure research work around plan.md"
+  default_prompt: "Use $research-management-skill to create or update a plan.md before continuing my research task."
+
+policy:
+  allow_implicit_invocation: true
